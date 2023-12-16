@@ -1,3 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	background: red;
+	padding: 20px;
+	color: white;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
 body {
-	background: blue;
+	background: rgb(214, 214, 214);
 }
