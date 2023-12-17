@@ -48,23 +48,6 @@ header {
 	color: #070a27;
 }
 
-.contenedor {
-	padding: 50px 100px;
-}
-
-.btn {
-	padding: 1rem;
-	border-radius: 5px;
-	box-shadow: 5px 5px 5px;
-	margin-bottom: 20px;
-}
-
-.contenedor > h2 {
-	text-align: center;
-	color: red;
-	text-transform: uppercase;
-}
-
 .ocultar {
 	visibility: hidden;
 }
